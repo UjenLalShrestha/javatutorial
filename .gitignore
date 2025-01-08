@@ -1,0 +1,9 @@
+/employeemanagementsystem/target/
+# .gitignore
+*.class
+*.log
+*.jar
+.DS_Store
+/bin/
+/target/
+
